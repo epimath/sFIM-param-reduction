@@ -17,9 +17,9 @@ The code given here will generate the figures used in the examples and case stud
 
 
 
-### References
-1. C. Gerard and A. Goldbeter, A skeleton model for the network of cyclin-dependent kinases driving the mammalian cell cycle, Interface Focus, 1 (2011), pp. 24–35, https://doi.org/10.1098/rsfs.2010.0008
+#### References
+<sup>1. C. Gerard and A. Goldbeter, A skeleton model for the network of cyclin-dependent kinases driving the mammalian cell cycle, Interface Focus, 1 (2011), pp. 24–35, https://doi.org/10.1098/rsfs.2010.0008</sup>
 
-2. J. H. Tien and D. J. D. Earn, Multiple transmission pathways and disease dynam- ics in a waterborne pathogen model., Bulletin of mathematical biology, 72 (2010), pp. 1506–33, https://doi.org/10.1007/s11538-010-9507-6, http://www.ncbi. nlm.nih.gov/pubmed/20143271.
+<sup>2. J. H. Tien and D. J. D. Earn, Multiple transmission pathways and disease dynam- ics in a waterborne pathogen model., Bulletin of mathematical biology, 72 (2010), pp. 1506–33, https://doi.org/10.1007/s11538-010-9507-6, http://www.ncbi. nlm.nih.gov/pubmed/20143271.</sup>
 
-3. M. C. Eisenberg, S. L. Robertson, and J. H. Tien, Identifiability and estimation of multiple transmission pathways in cholera and waterborne disease., Journal of the- oretical biology, 324 (2013), pp. 84–102, https://doi.org/10.1016/j.jtbi.2012. 12.021, http://www.ncbi.nlm.nih.gov/pubmed/23333764.
+<sup>3. M. C. Eisenberg, S. L. Robertson, and J. H. Tien, Identifiability and estimation of multiple transmission pathways in cholera and waterborne disease., Journal of the- oretical biology, 324 (2013), pp. 84–102, https://doi.org/10.1016/j.jtbi.2012. 12.021, http://www.ncbi.nlm.nih.gov/pubmed/23333764.</sup>
