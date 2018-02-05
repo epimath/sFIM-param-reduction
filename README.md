@@ -15,6 +15,7 @@ The code given here will generate the figures used in the examples and case stud
 **Questions? Contact Marisa Eisenberg (marisae@umich.edu) or Andrew Brouwer (brouweaf@umich.edu).**
 
 
+---
 
 
 #### References
