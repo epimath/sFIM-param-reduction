@@ -4,16 +4,15 @@ Code for examining identifiability and active subspaces. This is the source code
 
 > The underlying connections between identifiability, active subspaces, and parameter space dimension reduction. Brouwer AF and Eisenberg MC. Arxiv preprint: (add link here once it's up)
 
-Questions? Contact Marisa Eisenberg (marisae@umich.edu) or Andrew Brouwer (brouweaf@umich.edu).
+Please cite the paper referenced above if you use our code or adapt it for your project. 
 
-The code given here will generate the figures used in the examples and case studies---these include a couple of basic, toy examples,
-as well as two real-world applications:
+The code given here will generate the figures used in the examples and case studies---these include a couple of basic, toy examples, as well as two real-world applications:
 
 - Modeling the cell cycle in cancer ([1](https://doi.org/10.1098/rsfs.2010.0008))
 
 - Cholera transmission using the SIWR model ([2](https://doi.org/10.1007/s11538-010-9507-6),[3](https://doi.org/10.1016/j.jtbi.2012))
 
-Please cite the paper referenced above if you use our code or adapt it for your project. 
+**Questions? Contact Marisa Eisenberg (marisae@umich.edu) or Andrew Brouwer (brouweaf@umich.edu).**
 
 
 
