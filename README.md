@@ -2,7 +2,7 @@
 
 Code for examining identifiability and active subspaces, using the common framework of the sensitivity Fisher Information Matrix (FIM). This is the source code for:
 
-> The underlying connections between identifiability, active subspaces, and parameter space dimension reduction. Brouwer AF and Eisenberg MC. Arxiv preprint: (add link here once it's up)
+> The underlying connections between identifiability, active subspaces, and parameter space dimension reduction. Brouwer AF and Eisenberg MC. [arXiv:1802.05641](https://arxiv.org/abs/1802.05641)
 
 Please cite the paper referenced above if you use our code or adapt it for your project. 
 
